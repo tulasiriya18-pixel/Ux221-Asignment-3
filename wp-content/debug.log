@@ -1,0 +1,35 @@
+[07-Mar-2026 00:55:20 UTC] PHP Warning:  Undefined array key "host" in /workspaces/Assignment2-UX221/.wordpress/wp-includes/pluggable.php on line 1721
+[07-Mar-2026 01:00:03 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment2-UX221/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[07-Mar-2026 01:25:46 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:25:46 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:25:51 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1173
+[07-Mar-2026 01:25:54 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1173
+[07-Mar-2026 01:25:56 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:25:56 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:26:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1173
+[07-Mar-2026 01:26:04 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1173
+[07-Mar-2026 01:26:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:26:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:26:07 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:26:07 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:26:08 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 86016 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/admin.php on line 55
+[07-Mar-2026 01:26:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:26:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 1550
+[07-Mar-2026 01:26:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:26:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:27:02 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:27:02 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 1550
+[07-Mar-2026 01:27:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:27:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:27:13 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:27:13 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 1550
+[07-Mar-2026 01:27:17 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:27:17 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:28:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:28:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 1550
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1497
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-admin/includes/post.php on line 1586
+[07-Mar-2026 01:28:03 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/Assignment2-UX221/.wordpress/wp-includes/functions.php on line 655
