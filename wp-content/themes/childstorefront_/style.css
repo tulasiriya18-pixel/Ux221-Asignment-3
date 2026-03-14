@@ -1,0 +1,14 @@
+/*
+Theme Name:     childstorefront_
+Description:    child theme
+Author:         riesb11
+Template:       storefront
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.entry-title a{
+    color: #24439c;
+    font-style: italic;
+    font-weight: 500;
+}
