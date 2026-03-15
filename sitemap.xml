@@ -32,7 +32,67 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/shop/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cart/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/checkout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product/whey-protein/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product/pure-protein-bar/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product/tredmil/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product/multi-purpose-weight-stack/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product/standard-barbell/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product-category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product-category/protein/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/product-category/workout-equipment/
         </loc>
     </url>
     <url>
